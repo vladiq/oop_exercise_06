@@ -1,0 +1,102 @@
+
+0 - Quit
+1 - Add element to list (push front / by index)
+2 - Delete element from list (pop front / erase by index / erase by iterator)
+3 - Print all elements
+4 - Count_if example
+5 - Print element by [index]
+
+Enter coordinates
+1 - PushFront
+2 - Insert by index
+
+0 - Quit
+1 - Add element to list (push front / by index)
+2 - Delete element from list (pop front / erase by index / erase by iterator)
+3 - Print all elements
+4 - Count_if example
+5 - Print element by [index]
+
+Enter coordinates
+1 - PushFront
+2 - Insert by index
+Enter index
+
+0 - Quit
+1 - Add element to list (push front / by index)
+2 - Delete element from list (pop front / erase by index / erase by iterator)
+3 - Print all elements
+4 - Count_if example
+5 - Print element by [index]
+
+Enter coordinates
+1 - PushFront
+2 - Insert by index
+Enter index
+
+0 - Quit
+1 - Add element to list (push front / by index)
+2 - Delete element from list (pop front / erase by index / erase by iterator)
+3 - Print all elements
+4 - Count_if example
+5 - Print element by [index]
+
+Enter coordinates
+1 - PushFront
+2 - Insert by index
+
+0 - Quit
+1 - Add element to list (push front / by index)
+2 - Delete element from list (pop front / erase by index / erase by iterator)
+3 - Print all elements
+4 - Count_if example
+5 - Print element by [index]
+
+Square [3 3] [3 3] [3 3] [3 3]
+Center: [3 3]
+Area: 0
+Square [1 1] [1 1] [1 1] [1 1]
+Center: [1 1]
+Area: 0
+Square [2 2] [2 2] [2 2] [2 2]
+Center: [2 2]
+Area: 0
+Square [0 0] [0 0] [0 0] [0 0]
+Center: [0 0]
+Area: 0
+
+0 - Quit
+1 - Add element to list (push front / by index)
+2 - Delete element from list (pop front / erase by index / erase by iterator)
+3 - Print all elements
+4 - Count_if example
+5 - Print element by [index]
+
+1 - Erase by index
+2 - Erase by iterator
+3 - Pop front
+
+0 - Quit
+1 - Add element to list (push front / by index)
+2 - Delete element from list (pop front / erase by index / erase by iterator)
+3 - Print all elements
+4 - Count_if example
+5 - Print element by [index]
+
+Square [1 1] [1 1] [1 1] [1 1]
+Center: [1 1]
+Area: 0
+Square [2 2] [2 2] [2 2] [2 2]
+Center: [2 2]
+Area: 0
+Square [0 0] [0 0] [0 0] [0 0]
+Center: [0 0]
+Area: 0
+
+0 - Quit
+1 - Add element to list (push front / by index)
+2 - Delete element from list (pop front / erase by index / erase by iterator)
+3 - Print all elements
+4 - Count_if example
+5 - Print element by [index]
+
